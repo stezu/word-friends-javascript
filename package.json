@@ -1,5 +1,5 @@
 {
-  "name": "word-friends",
+  "name": "word-friends-javascript",
   "private": true,
   "version": "0.1.0",
   "description": "An implementation of https://www.codeeval.com/public_sc/58/ in node.",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stezu/word-friends.git"
+    "url": "git+https://github.com/stezu/word-friends-javascript.git"
   },
   "keywords": [],
   "files": [
@@ -24,9 +24,9 @@
   "author": "Stephen Zuniga <hello@stephenzuniga.com> (http://stephenzuniga.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stezu/word-friends/issues"
+    "url": "https://github.com/stezu/word-friends-javascript/issues"
   },
-  "homepage": "https://github.com/stezu/word-friends#readme",
+  "homepage": "https://github.com/stezu/word-friends-javascript#readme",
   "devDependencies": {
     "beeper": "^1.1.0",
     "chai": "^3.5.0",
